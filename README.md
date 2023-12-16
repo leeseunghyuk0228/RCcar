@@ -22,13 +22,12 @@
 3. 주행 조작 입력 정보 저장
 4. 탐지 객체 정보 저장
 <br>
-
 ## 😊 담당 역할 (*팀원 코로나19로 열외, 단독 수행)
 1. AWS EC2 환경 설정 및 MySQL DB 생성
 2. Python 활용 MySQL 연결
 3. Servo 모터 조작 코드, RCcar 제어
 4. SenseHat 사용 LED Display
-5. [Tensorflow TFlite](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi) 적용
+5. [Tensorflow TFlite](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md) 적용
 <br>
 
 ## 🔗관련 자료

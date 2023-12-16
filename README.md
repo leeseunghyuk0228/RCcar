@@ -35,4 +35,6 @@
 ### [시스템 모식도](./exec/RCCar_시스템모식도.jpg)
 ### [Main 클래스 구조](./exec/클래스구조.jpg)
 ### [데이터 리스트](./exec/데이터리스트.jpg)
+### [발표 사진](./exec/발표사진.jpg)
+### [주행 영상](https://drive.google.com/file/d/1wugQv7XH8DLrf5MJr88SNRAgkcOW30cN/view?usp=sharing)
 

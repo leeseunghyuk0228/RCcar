@@ -26,7 +26,7 @@ SSAFY 임베디드 트랙 1학기 최종 Project
 3. Servo 모터 조작 코드, RCcar 제어
 4. SenseHat 사용 LED Display
 5. [Tensorflow TFlite](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi) 적용
-
+<br>
 
 ## 🔗관련 자료
 ### [시스템 모식도](./exec/RCCar_시스템모식도.jpg)
